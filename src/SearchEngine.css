@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
