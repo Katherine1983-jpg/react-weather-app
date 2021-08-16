@@ -9,6 +9,16 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
     <SearchEngine />
+    <div>
+      <a
+        href="https://github.com/Katherine1983-jpg/react-weather-app"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Open-source code{" "}
+      </a>
+      by Katherine Simpson
+    </div>
   </React.StrictMode>,
   document.getElementById("root")
 );
